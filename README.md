@@ -1,6 +1,6 @@
-#Java Project
+#Jogged Hours Logged
 
-*Project for creating Java applications which do coomon tasks.*
+*Project jogged hours logged.*
 
 **Java 7**
 
